@@ -1,0 +1,26 @@
+body {
+
+	background-color: #000000;
+}
+
+h1 {
+
+	color: #fff;
+}
+
+p{
+
+	color: #fff;
+}
+
+.floating-image{
+    float: left;
+    width: 201px;
+    height: 504px;
+    margin: 10px;
+    }
+
+.after-box {
+    clear: left;
+    border: 3px solid red;      
+}
